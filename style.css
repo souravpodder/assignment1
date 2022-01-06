@@ -4,7 +4,7 @@ body {
 
 .common-button {
   text-decoration: none;
-  padding: 10px 40px;
+  padding: 15px 40px;
   background-color: rgb(197, 55, 133);
   color: white;
   border-radius: 5px;
@@ -86,4 +86,56 @@ body {
 
 #mission-varities-section h1 {
   text-align: center;
+}
+
+#doc-section-1 {
+  display: flex;
+  padding-left: 120px;
+  padding-right: 150px;
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+#doc-section-1 img {
+  width: 90%;
+}
+
+#doc-section-2 {
+  display: flex;
+  padding-left: 120px;
+  padding-right: 150px;
+  background-image: url(images/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  margin-top: 100px;
+}
+
+#doc-section-2 img {
+  width: 90%;
+}
+
+.doc1-txt {
+  padding-top: 50px;
+}
+
+.doc1-txt p {
+  margin-bottom: 40px;
+}
+
+.doc1-txt h2 {
+  font-size: 36px;
+}
+
+.doc2-txt {
+  padding-top: 50px;
+}
+
+.doc2-txt p {
+  margin-bottom: 40px;
+  padding-right: 120px;
+}
+
+.doc2-txt h2 {
+  font-size: 36px;
 }
