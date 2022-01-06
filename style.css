@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+}
+
+.common-button {
+  text-decoration: none;
+  padding: 10px 40px;
+  background-color: rgb(197, 55, 133);
+  color: white;
+  border-radius: 5px;
+}
+
+.secondary-color {
+  color: rgb(245, 160, 1);
+}
+
+.big-font {
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.top-second-header {
+  margin-top: -50px;
+}
+.secondary-font-family {
+  font-family: 'Fira Sans', sans-serif;
+}
+.half-width {
+  width: 50%;
+}
+
+#top-section {
+  display: flex;
+}
+
+#top-section img {
+  width: 60%;
+  padding-top: 60px;
+}
+
+.mission {
+  padding: 80px 120px;
+}
+
+.mission div {
+  border-left: 5px solid rgb(221, 2, 155);
+  padding-left: 10px;
+}
